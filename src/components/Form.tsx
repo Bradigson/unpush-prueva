@@ -64,10 +64,7 @@ const Form = ()=>{
     const handleSubmit = (e:any)=>{
         e.preventDefault();
 
-        dispatch(createPerson({
-            ...form,
-            id:uuid()
-        }));
+       
 
         if(validator.isEmpty(form.nombre)){
             handleSubmitError("Debe de ingresar su nombre");
