@@ -34,6 +34,8 @@ Para los estilos SASS/CSS/BOOTSTRAP/BOXICON/Color Palettes/BoxSghadow Generater
 Para validar campos use react-validator.
 
 
+
+
 espero sea de su agrado.
   
 
